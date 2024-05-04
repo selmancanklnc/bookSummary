@@ -1,3 +1,3 @@
 # book_summary
 
-A new Flutter project.
+Book Summary Project App ❤ #Flutter
