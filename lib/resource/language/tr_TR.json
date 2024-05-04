@@ -1,0 +1,54 @@
+{
+  "login":"Giriş Yap",
+  "logout":"Çıkış Yap",
+  "select_language":"Dil Seçimi",
+  "turkish":"Türkçe",
+   "english":"İngilizce",
+   "save_changes":"Değişiklikleri Kaydet",
+   "saved_successfully":"Başarıyla Kaydedildi",
+   "signing_in":"Giriş Yapılıyor",
+   "saving":"Kaydediliyor...",
+   "gm1":"Günaydın",
+   "gm2":"İyi Günler",
+   "gm3":"İyi Akşamlar",
+   "gm4":"İyi Geceler",
+   "recent":"Yeni Eklenenler",
+   "popular":"Popüler",
+   "bookDetail":"Kitap Detayı",
+   "addNote":"Not Ekle",
+   "addNote2":"Notunuzu Ekleyin",
+   "pageNumber":"Sayfa Numarası",
+   "writeNote":"Notunuzu Yazın",
+   "save":"Kaydet",
+   "books":"Kitaplar",
+   "new":"Yeni",
+   "selectTheme":"Tema Seçimi",
+   "darkTheme":"Koyu Tema",
+   "lightTheme":"Açık  Tema",
+   "save_change":"Değişiklikleri Kaydet",
+   "logout2":"Oturumu Kapat",
+   "cancel":"İptal",
+   "logoutMessage":"Hesabınızdan çıkış yapılacaktır.",
+   "themeChanged":"Tema Değiştirildi",
+   "ok":"Tamam" ,
+   "addBook":"Kitap Ekle",
+   "base":"Temel Bilgiler",
+   "bookName":"Kitap Adı",
+   "bookSummary":"Kitap Özeti",
+   "bookGen":"Kitap Türü",
+   "bookImage":"Kitap Görseli",
+   "bookImage2":"Kapak Resmi",
+   "emptyError":"Lütfen Gerekli alanları doldurunuz.",
+   "succesAdd":"Kitap Başarıyla Yüklendi",
+   "bookAddError":"Kitap Eklenemedi, lütfen tekrar deneyiniz.",
+   "note":"Not"
+  
+    
+
+
+
+   
+
+
+
+}
