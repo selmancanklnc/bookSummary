@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDsgNSIGw4h9KOTllDZtDCY0DNVFWFPy08',
+    apiKey: '???',
     appId: '1:496424333114:web:9053549f04cfc538952a03',
     messagingSenderId: '496424333114',
     projectId: 'bookapp-f6413',
@@ -56,7 +56,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCOZA1lJZuRv0q4bQ7Er_nhKV_KyqOcqek',
+    apiKey: '???',
     appId: '1:496424333114:android:558e7f7af0d48cc7952a03',
     messagingSenderId: '496424333114',
     projectId: 'bookapp-f6413',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCRGEo__j58wJVEn357gPd7k_r4yQZ64ko',
+    apiKey: '???',
     appId: '1:496424333114:ios:5dc9e84c99eaee69952a03',
     messagingSenderId: '496424333114',
     projectId: 'bookapp-f6413',
